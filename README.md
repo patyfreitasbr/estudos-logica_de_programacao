@@ -6,13 +6,13 @@ Neste repositório, você encontrará meus estudos, exercícios e desafios de l�
 
 - [Conteúdos](#conteudos)
 - [Como visualizar o projeto](#Como-visualizar-o-projeto)
-  [Outros repositórios com estudos ](#outros-repositorio-com-estudos)
+- [Outros repositórios com estudos ](#outros-repositorio-com-estudos)
 - [Contato](#contato)
 
 # Conteúdos
 
-- [Desafios e Resoluçções]()
-- [Exercícios Resolvidos]()
+- [Desafios e resoluções](https://github.com/patyfreitasbr/estudos-logica_de_programacao/tree/main/desafios)
+- [Exercícios resolvidos](https://github.com/patyfreitasbr/estudos-logica_de_programacao/tree/main/exercicios)
 
 ## Como visualizar o projeto
 
