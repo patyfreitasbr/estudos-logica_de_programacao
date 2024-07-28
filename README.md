@@ -6,7 +6,6 @@ Neste repositório, você encontrará meus estudos, exercícios e desafios de l�
 
 - [Conteúdos](#conteudos)
 - [Como visualizar o projeto](#Como-visualizar-o-projeto)
-- [Outros repositórios com estudos ](#outros-repositorio-com-estudos)
 - [Contato](#contato)
 
 # Conteúdos
@@ -19,13 +18,6 @@ Neste repositório, você encontrará meus estudos, exercícios e desafios de l�
 1. Baixe o projeto em seu computador (clique no botão verde no alto na página "code" e clique em "Download ZIP".)
 2. Descompacte a pasta (use o software de sua preferência 7zip, winrar...).
 3. Utilize o software VisualG para abrir e executar os arquivos.
-
-### Outros repositórios com estudos
-
-- [Projetos-HTMLeCSS](https://github.com/patyfreitasbr/projetos-HTMLeCSS)
-- [Projetos-JavaScript](https://github.com/patyfreitasbr/projetos-JavaScript)
-- [Estudos-HTML_CSS](https://github.com/patyfreitasbr/estudos-HTML_CSS)
-- [Estudos-Python](https://github.com/patyfreitasbr/estudos-Python)
 
 ## Contato
 
